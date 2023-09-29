@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 📫 How to reach me :
 - Insta_id - prarthna_kul
-- X(fORMER TWITTER)_id - prarthna_kul
+- X(FORMER TWITTER)_id - prarthna_kul
 
 <!---
 prarthna-kul/prarthna-kul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
